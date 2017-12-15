@@ -1,4 +1,4 @@
-# TP5 : Modélisation du bruit - filtre des moyennes non locales
+# Modélisation du bruit - filtre des moyennes non locales
 
 
 Réalisé par **Daehli Nadeau-Otis**  
